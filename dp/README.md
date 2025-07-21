@@ -40,6 +40,8 @@ Recursive tree and Diagram:
 
 ## Trick to print only one answer
 If you want to pick or print just the one answer then follow these steps:
+
+Function has to be boolean
 1. For base condtions , return true if satisfies or , return false if doesn't satisy.
 2. Then add a condition , if a func returning true then just return.
 
