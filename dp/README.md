@@ -35,6 +35,6 @@ Eliminating Recursion all together.
 See code and the Recusive tree
 
 Recursive tree and Diagram:
-![Alt text](dp/sub_rec.jpeg)
+![Alt text](dsa-striver/dp/sub_rec.jpeg)
 
 
