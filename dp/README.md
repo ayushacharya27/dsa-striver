@@ -38,3 +38,11 @@ Recursive tree and Diagram:
 ![Alt text](sub_rec.jpeg)
 
 
+## Trick to print only one answer
+If you want to pick or print just the one answer then follow these steps:
+1. For base condtions , return true if satisfies or , return false if doesn't satisy.
+2. Then add a condition , if a func returning true then just return.
+
+Look into the - [firstseqsum.cpp](firstseqsum.cpp)
+
+
