@@ -47,4 +47,18 @@ Function has to be boolean
 
 Look into the - [firstseqsum.cpp](firstseqsum.cpp)
 
+## If we have to return all ways 
+1. In base case either return 1 (If Satisfies)
+or 0 if doesnt satisfy , return 0
+
+2. Call the Left Function and Call the right Function and return left + right 
+
+
+## Fuck Climbing Stairs
+
+
+
+
+
+
 
