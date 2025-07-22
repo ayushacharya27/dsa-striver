@@ -5,7 +5,7 @@ using namespace std;
 void lowest_energy(int &min_energy ,int energy, int index , int n , int energy_arr[]){
     if(index==n-1){
         if(energy<min_energy){
-            min_energy = energy; // Just calculating the minimum of the energy utilised
+            min_energy = energy; // Just calculating the minimum of the energy utilised 
         }
         return ;
     }
